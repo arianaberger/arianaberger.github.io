@@ -1,7 +1,7 @@
 /* Theme */
 
 main {
-	background: #485564;
+	background: #645080;
 	color: #FAFAFA;
 }
 
@@ -12,3 +12,27 @@ main {
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
+
+i:hover {
+	opacity: 0.7
+}
+
+
+/* Use eventually for icon bounce effect! */
+.bounce {
+    animation: bounce 2s;
+}
+
+@keyframes bounce {
+    0%,
+    25%,
+    50%,
+    75%,
+    100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-20px);
+    }
+    60% {
+        transform: translateY(-12px);
