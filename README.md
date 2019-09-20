@@ -1,2 +1,1 @@
-# arianaberger.github.io
-Personal Website
+~*~Welcome to my website~*~
